@@ -1,6 +1,6 @@
 # SEMANA-TEC-ARAM
 
-Semana tec
+Semana tec (sección de pruebas)
 
 ## Ejemplo de uso de Markdown
 
